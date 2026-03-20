@@ -2,6 +2,8 @@
 
 4 free YouTube data extraction tools — no API key, no quota limits.
 
+> **Need custom data extraction?** I'll scrape any website for $20. Email **Spinov001@gmail.com** or [see pricing](https://spinov001-art.github.io).
+
 ## Tools
 
 | Tool | What It Does | Link |
