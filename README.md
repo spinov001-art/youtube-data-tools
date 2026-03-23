@@ -25,6 +25,14 @@ YouTube's official Data API has strict quotas (10,000 units/day). These tools us
 - Trend research via search results
 - AI training data from video content
 
+## Tutorial
+
+📖 [YouTube's Secret Innertube API — How It Works](https://dev.to/0012303/youtubes-secret-innertube-api-extract-comments-transcripts-channel-data-without-api-keys-mil)
+
+## More Tools
+
+🔗 [77 Free Web Scraping Tools](https://github.com/spinov001-art/awesome-web-scraping-2026)
+
 ## License
 
 MIT
