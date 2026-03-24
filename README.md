@@ -33,6 +33,11 @@ YouTube's official Data API has strict quotas (10,000 units/day). These tools us
 
 🔗 [77 Free Web Scraping Tools](https://github.com/spinov001-art/awesome-web-scraping-2026)
 
+## Related Projects
+
+- [YouTube RAG Knowledge Base](https://github.com/spinov001-art/youtube-rag-knowledge-base) — Build AI knowledge base from YouTube transcripts with RAG
+- [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 77 free web scraping tools
+
 ## License
 
 MIT
