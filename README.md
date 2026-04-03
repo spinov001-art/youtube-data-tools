@@ -27,7 +27,7 @@ YouTube's official Data API has strict quotas (10,000 units/day). These tools us
 
 ## Tutorial
 
-📖 [YouTube's Secret Innertube API — How It Works](https://dev.to/0012303/youtubes-secret-innertube-api-extract-comments-transcripts-channel-data-without-api-keys-mil)
+📖 [YouTube's Secret Innertube API — How It Works](https://github.com/spinov001-art/youtube-innertube-toolkit)
 
 ## More Tools
 
